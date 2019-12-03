@@ -1,5 +1,5 @@
 # My-Magical-Pet #AndroidDevChallenge
-An Android App for interacting with a Virtual Pet in AR
+An Android App for interacting with a Virtual Pet - Dog in AR
 
 # Tell us what your idea is. 
 
@@ -16,7 +16,9 @@ Technologies & Sample Code :
 	
 1. Media Pipe (TensorFlow Lite) by Google to build Android Model for Hand Tracking that will be used to interact with the Pet : https://github.com/suyashjoshi/mediapipe
 
-2. ARCore (Android SDK & Sceneform) : AR is the main User Experience and I will be leveraing AR Core Android SDK and SceneForm fraemwork to create AR Experience for this app https://developers.google.com/ar/develop/java/quickstart 
+2. ARCore (Android SDK & Sceneform) : AR is the main User Experience and I will be leveraing AR Core Android SDK and SceneForm fraemwork to create AR Experience for this app https://developers.google.com/ar/develop/java/quickstart
+
+	- 3D Model of the Dog from Google Poly : https://poly.google.com/view/0IuRrFSlk5D
 
 3. Audio & Speech Recogniton : Audio is a big driver in order to create immersive experiences, the visual creates will not only produce sound but users will also be able to speak to them using natural langauge. I will be leveraging this project to train the model and use Speech Recognition https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands/android
 
