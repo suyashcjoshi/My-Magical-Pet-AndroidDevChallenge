@@ -3,7 +3,7 @@ An Android App for interacting with a Virtual Pet in AR
 
 # Tell us what your idea is. 
 
-This application will allow any Android User to interact and play with with a Virtual Pet in a magical way using Gestures (Finger), Natural Langauge (voice commands) in Augmented Reality. The app leverages Android AR Core and Google MLKit and Media Pipe open soure project to create this exprience on the edge.
+This application will allow any Android User to interact and play with with a Virtual Pet (Talking Dog) in a magical way using Gestures (Finger), Natural Langauge (voice commands) in Augmented Reality. The app leverages Android AR Core and Google MLKit and Media Pipe open soure project to create this exprience on the edge.
 
 ![AR Core Tracking](https://lh6.googleusercontent.com/SUyTSqwCRU_3bHsbHQnic91HuyGJFj_z2B6H4EmWQiaytg4ht5YdOBRzStBYLh8Vi_gXrh6oOSO_gAL-HW_kjPgBRjK0_W15ItBpKNb-sU3KgSXcBvg=w371)
 
