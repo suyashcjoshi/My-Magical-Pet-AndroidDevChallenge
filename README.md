@@ -24,10 +24,10 @@ Technologies & Sample Code :
 (2) a list of the ways you could use Google’s help, 
 (3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
 
+I have started to play with #1 MediaPipe in order to build an Android Model for my hand tracking and have started to communicate with the project engineers on Github. I would love to get help on the same from Google ML Researchers.
 
 # Tell us about you. 
 
 I have been a full time software developer for about 10 years now and bring background in Android, Web and Deep Learning technologies. Previously I've also been invited to speak on State of Mobile AR at MIT : and on Deep Learning for Java Developers :
 
 I'm very excited to take part in this cahllenge and build this app and make it open source as later use it as teaching project for other developers.
-
