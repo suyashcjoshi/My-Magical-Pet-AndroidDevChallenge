@@ -20,10 +20,6 @@ Technologies & Sample Code :
 
 3. Audio & Speech Recogniton : Audio is a big driver in order to create immersive experiences, the visual creates will not only produce sound but users will also be able to speak to them using natural langauge. I will be leveraging this project to train the model and use Speech Recognition https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands/android
 
-(1) any potential sample code you’ve already written, 
-(2) a list of the ways you could use Google’s help, 
-(3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
-
 I have started to play with #1 MediaPipe in order to build an Android Model for my hand tracking and have started to communicate with the project engineers on Github. I would love to get help on the same from Google ML Researchers.
 
 # Tell us about you. 
