@@ -28,6 +28,6 @@ I have started to play with #1 MediaPipe in order to build an Android Model for 
 
 # Tell us about you. 
 
-I have been a full time software developer for about 10 years now and bring background in Android, Web and Deep Learning technologies. Previously I've also been invited to speak on State of Mobile AR at MIT : and on Deep Learning for Java Developers :
+I have been a full time software developer for about 10 years now and bring background in Android, Web and Deep Learning technologies. Previously I've also been invited to speak on State of Mobile AR at MIT : and on Deep Learning for Java Developers : https://www.youtube.com/watch?v=SORF-lNCfLU , https://www.youtube.com/watch?v=y0vHB4YfvWs
 
 I'm very excited to take part in this cahllenge and build this app and make it open source as later use it as teaching project for other developers.
