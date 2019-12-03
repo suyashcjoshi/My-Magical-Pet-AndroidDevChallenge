@@ -12,22 +12,22 @@ This application will allow any Android User to interact and play with with a Vi
 # Tell us how you plan on bringing it to life. 
 Project Plan :
 
-Technologies : 
+Technologies & Sample Code : 
 	
-	1. Media Pipe by Google to build Android Model for Hand Tracking that will be used to interact with the Pet : https://github.com/suyashjoshi/mediapipe
-	2. Google MLKit : Leveraging TensorFlow Lite for doing on device ML inference 
-	2. ARCore (Android SDK) 
-	3. Audio & Speech Recogniton : Audio is a big driver in order to create immersive experiences, the visual creates will not only produce sound but users will also be able to speak to them using natural langauge. I will be leveraging this project to train the model and use Speech Recognition https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands/android
+1. Media Pipe (TensorFlow Lite) by Google to build Android Model for Hand Tracking that will be used to interact with the Pet : https://github.com/suyashjoshi/mediapipe
+
+2. ARCore (Android SDK & Sceneform) : AR is the main User Experience and I will be leveraing AR Core Android SDK and SceneForm fraemwork to create AR Experience for this app https://developers.google.com/ar/develop/java/quickstart 
+
+3. Audio & Speech Recogniton : Audio is a big driver in order to create immersive experiences, the visual creates will not only produce sound but users will also be able to speak to them using natural langauge. I will be leveraging this project to train the model and use Speech Recognition https://github.com/tensorflow/examples/tree/master/lite/examples/speech_commands/android
 
 (1) any potential sample code you’ve already written, 
 (2) a list of the ways you could use Google’s help, 
 (3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
 
-Refrences:
-
-1. Google 
 
 # Tell us about you. 
- A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
 
+I have been a full time software developer for about 10 years now and bring background in Android, Web and Deep Learning technologies. Previously I've also been invited to speak on State of Mobile AR at MIT : and on Deep Learning for Java Developers :
+
+I'm very excited to take part in this cahllenge and build this app and make it open source as later use it as teaching project for other developers.
 
