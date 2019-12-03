@@ -7,7 +7,7 @@ This application will allow any Android User to interact and play with with a Vi
 
 ![AR Core Tracking](https://lh6.googleusercontent.com/SUyTSqwCRU_3bHsbHQnic91HuyGJFj_z2B6H4EmWQiaytg4ht5YdOBRzStBYLh8Vi_gXrh6oOSO_gAL-HW_kjPgBRjK0_W15ItBpKNb-sU3KgSXcBvg=w371)
 
-![Finger Tracking] (https://github.com/google/mediapipe/blob/master/mediapipe/docs/images/mobile/hand_tracking_3d_android_gpu_small.gif?raw=true)
+![Finger Tracking](https://github.com/google/mediapipe/blob/master/mediapipe/docs/images/mobile/hand_tracking_3d_android_gpu_small.gif?raw=true)
 
 # Tell us how you plan on bringing it to life. 
 Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
