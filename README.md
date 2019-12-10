@@ -14,7 +14,7 @@ Project Plan :
 
 Technologies & Sample Code : 
 	
-1. Media Pipe (TensorFlow Lite) by Google to build Android Model for Hand Tracking that will be used to interact with the Pet : https://github.com/suyashjoshi/mediapipe
+1. Media Pipe (TensorFlow Lite) & Android ARCore Depth API by Google to build Android Model for Hand Tracking that will be used to interact with the Pet : https://github.com/suyashjoshi/mediapipe
 
 2. ARCore (Android SDK & Sceneform) : AR is the main User Experience and I will be leveraing AR Core Android SDK and SceneForm fraemwork to create AR Experience for this app https://developers.google.com/ar/develop/java/quickstart
 
